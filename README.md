@@ -1,6 +1,6 @@
 # Dictature 4.0: “La Prison à plein air”.
 
-(IX)_Immersive_reactive_experience_and_multimedia_archives.
+(IX)_Immersive_reactive_experience_and_multimedia_archives_from_Argelia.
 
 Abstract:
 The reader in this repository is introduced to the unique case study of Algeria. Since 2019 the country has been undergoing a social and political revolution, similar to the Arab Springs of 2011, which seeks to overthrow a long lasting “fachade democracy” and authoritarian military currently in power via a coup d'etat. This military elite which, to the eyes of the Western powers is trying to establish a constitutional democracy, is in fact attempting to perpetuate itself in power via the control of: the web 2.0, 3.0, cellular networked technologies such as 3G and 4G, social media such as Facebook or Instagram, You Tube, Vimeo, the press and the mass media; imprisoning and in some cases murdering activists, lawyers and intellectuals which use these mediums as means to denounce basic violations of human rights.
