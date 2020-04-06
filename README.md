@@ -1,4 +1,4 @@
 # (IX) Immersive reactive experiences and multimedia archives. 
 
-React, html and .css
+React, html, .css and .js
 
